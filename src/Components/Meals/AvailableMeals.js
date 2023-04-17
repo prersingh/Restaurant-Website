@@ -7,25 +7,25 @@ const DUMMY_MEALS = [
     id: "m1",
     name: "Chilli Burger With Pepper Relish",
     description: "Chilli lamb pattie, roasted bell pepper dip",
-    price: 130.00,
+    price: 1.58,
   },
   {
     id: "m2",
     name: "Perfect Lamb Satay Burger",
     description: "Creaminess of peanut butter smothered with a gorgeous satay sauce",
-    price: 150.00,
+    price: 1.83,
   },
   {
     id: "m3",
     name: "Barbecue Burger",
     description: "American, raw, meaty",
-    price: 200.00,
+    price: 2.44,
   },
   {
     id: "m4",
     name: " Stuffed Bean Burger",
     description: "Bean burger with chipotle chilli and a dash of lime.",
-    price: 120.00,
+    price: 1.46,
   },
 ];
 
