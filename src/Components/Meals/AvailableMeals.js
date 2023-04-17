@@ -12,7 +12,7 @@ const DUMMY_MEALS = [
   {
     id: "m2",
     name: "Perfect Lamb Satay Burger",
-    description: "crunchiness of cashew nuts and the creaminess of peanut butter smothered with a gorgeous satay sauce",
+    description: "Creaminess of peanut butter smothered with a gorgeous satay sauce",
     price: 150.00,
   },
   {
