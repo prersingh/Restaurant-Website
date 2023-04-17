@@ -4,7 +4,7 @@ import classes from './MealsSummary.module.css';
 const MealsSummary = () => {
   return (
     <section className={classes.summary}>
-        <h2>Delicious Food, will be delivered to you!!</h2>
+        <h2>Delicious Food, Will be Delivered to you!!</h2>
         <p>  Choose your favorite burger from our broad selection of available meals
         and enjoy burger time at home.
       </p>
